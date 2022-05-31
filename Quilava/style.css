@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(202, 230, 176);
+  }
+  section {
+    border: solid 1px black;
+    padding: 10px;
+    border-radius: 20px;
+    margin-right: 50%;
+    background-color: white;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: rgb(0, 0, 0);
+  }
